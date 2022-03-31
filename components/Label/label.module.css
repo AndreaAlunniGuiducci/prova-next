@@ -1,0 +1,15 @@
+.label{
+    text-align: center;
+    border-left: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+    width: 100%;
+}
+
+.selectedLabel{
+    text-align: center;
+    border-left: 1px solid gray;
+    padding: 10px;
+    width: 100%;
+    background-color: white;
+  }

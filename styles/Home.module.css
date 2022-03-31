@@ -1,0 +1,18 @@
+.container {
+  min-height: 100vh;
+}
+.subLabelText,
+.subLabel {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card{
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}

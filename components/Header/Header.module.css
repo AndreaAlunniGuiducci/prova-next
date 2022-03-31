@@ -1,0 +1,35 @@
+.header {
+  background-color: gray;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  height: 90px;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
+.ico {
+  background-color: lightgray;
+  width: 30px;
+  height: 30px;
+  margin: 0 5px;
+  padding: 5px;
+  border-radius: 20%;
+}
+.wrapperButton {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.searchInput {
+  background-color: lightgray;
+  border-radius: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  height: 30px;
+}
